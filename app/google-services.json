@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537320201218",
+    "project_id": "notification-fc3d8",
+    "storage_bucket": "notification-fc3d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537320201218:android:46915fa0cfeddc11ae1b1b",
+        "android_client_info": {
+          "package_name": "com.farah.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537320201218-81qusdguckolhbs9lc6ha0rqp89fo3sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcGlzPt0-Dtk_TQ6K2CDmt9if6fwOrls8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537320201218-81qusdguckolhbs9lc6ha0rqp89fo3sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
